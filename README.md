@@ -1,0 +1,2 @@
+# Sfdcscenariosbybrahmanaidu
+Sfdcscenarios blog repository
